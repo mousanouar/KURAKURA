@@ -1,6 +1,7 @@
 Kuramoto model simulations for the Intro to Complex Systems course in Utrecht university.
 
 Codes are ordered as follows: 
+
 #1: Simulation of 10 runs to get evolution of order parameter as a function of time, with each iteration having same frequency distribution.
 
 #2: Same as above, but with fixed initial phases of oscillators and a different frequency distribution at each run.

@@ -1,5 +1,7 @@
 Kuramoto model simulations for the Intro to Complex Systems course in Utrecht university.
 
+The last 12 files contain data for the connected edges of the generated WS network.
+
 Codes are ordered as follows: 
 
 #1: Simulation of 10 runs to get evolution of order parameter as a function of time, with each iteration having same frequency distribution.
